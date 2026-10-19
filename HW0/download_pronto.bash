@@ -1,8 +1,8 @@
 (base) renzt@zitongdeMacBook-Air ~ % mkdir ~/cse583/pronto
 (base) renzt@zitongdeMacBook-Air ~ % cd ~/cse583/pronto
 (base) renzt@zitongdeMacBook-Air pronto % echo "These are data" > README.txt
-(base) renzt@zitongdeMacBook-Air pronto ~ % mkdir ~/cse583/pronto/data
-(base) renzt@zitongdeMacBook-Air pronto ~ % cd ~/cse583/pronto/data
+(base) renzt@zitongdeMacBook-Air pronto % mkdir ~/cse583/pronto/data
+(base) renzt@zitongdeMacBook-Air pronto % cd ~/cse583/pronto/data
 (base) renzt@zitongdeMacBook-Air data % curl -L 
 https://s3.amazonaws.com/pronto-data/open_data_year_one.zip -o open_data_year_one.zip
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
