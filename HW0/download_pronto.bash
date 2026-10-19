@@ -1,8 +1,8 @@
 (base) renzt@zitongdeMacBook-Air ~ % mkdir ~/cse583/pronto
-(base) renzt@zitongdeMacBook-Air ~ % cd pronto
+(base) renzt@zitongdeMacBook-Air ~ % cd ~/cse583/pronto
 (base) renzt@zitongdeMacBook-Air pronto % echo "These are data" > README.txt
-(base) renzt@zitongdeMacBook-Air ~ % mkdir ~/cse583/pronto/data
-(base) renzt@zitongdeMacBook-Air ~ % cd ~/cse583/pronto/data
+(base) renzt@zitongdeMacBook-Air pronto ~ % mkdir ~/cse583/pronto/data
+(base) renzt@zitongdeMacBook-Air pronto ~ % cd ~/cse583/pronto/data
 (base) renzt@zitongdeMacBook-Air data % curl -L 
 https://s3.amazonaws.com/pronto-data/open_data_year_one.zip -o open_data_year_one.zip
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
@@ -79,4 +79,3 @@ Date,Max_Temperature_F,Mean_Temperature_F,Min_TemperatureF,Max_Dew_Point_F,MeanD
 10/19/2014,73,64,55,57,55,53,94,74,52,29.8,29.73,29.67,10,10,6,10,3,18,0,
 10/20/2014,66,60,55,57,54,50,90,78,67,29.8,29.74,29.69,10,10,5,12,5,-,0.44,Rain
 10/21/2014,64,58,55,52,49,46,87,70,58,29.93,29.85,29.74,10,10,6,15,8,21,0.1,Rain
-
