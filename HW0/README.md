@@ -1,4 +1,4 @@
-I used mkdir to create the pronto peojectu folder and a data subfolder, and cd to move between these folders.
+I used mkdir to create the pronto peoject folder and a data subfolder, and cd to move between these folders.
 
 I used echo to create a short README.txt file in the project folder.
 
@@ -18,3 +18,4 @@ Then I placed download_pronto.bash and README.md in the HW0 folder of the local 
 
 I committed the changes with "git commit -m "Update Bash script and README for HW0", and uploaded the commit to Github with "git push".
 
+Finally I ran "bash -x download_pronto.bash" to check whether the script executed successfully.
