@@ -1,4 +1,3 @@
-
 mkdir ~/cse583/pronto
 cd ~/cse583/pronto
 echo "This folder contains the Pronto bike-share system's first-year open data, including station information, station status, trip records, and weather data. " > README.txt
